@@ -1,0 +1,17 @@
+/* body{
+    background-color: rgb(52, 52, 105);
+    
+} */
+.btn{
+   padding:10px;
+}
+.box{
+    background-color: aliceblue;
+    width:100px;
+    height:100px;
+    border:1px solid black;
+}
+.container{
+    display: flex;
+    gap:2px;
+}
